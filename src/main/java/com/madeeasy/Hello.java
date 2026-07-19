@@ -1,7 +1,7 @@
 package com.madeeasy;
 
 public class Hello {
-    static void main() {
+    public static void main(String[] args) {
 
     }
 }
