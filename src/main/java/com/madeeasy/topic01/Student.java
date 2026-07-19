@@ -1,4 +1,4 @@
-package com.madeeasy;
+package com.madeeasy.topic01;
 
 public class Student {
     String name;
