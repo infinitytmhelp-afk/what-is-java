@@ -1,4 +1,4 @@
-package com.madeeasy.topic3;
+package com.madeeasy.topic03;
 
 public class Hello {
     static void main() {
